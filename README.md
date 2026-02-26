@@ -1,5 +1,5 @@
 AI-Co-Processor-Evaluation-Integration-Logs
-# 🧠AI-Co-Processor-Evaluation-Integration-Logs/Active Multi-Model Deployment/Nov2022-Feb2026
+# 🧠AI-Co-Processor-Evaluation-Integration-Logs/Active-Multi-Model-Deployment/Nov2022-Feb2026
 
 # 🧠 AI Co-Processor Evaluation & Integration Logs
 **Current Status:** Active Multi-Model Deployment
